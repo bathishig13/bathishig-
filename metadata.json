@@ -1,0 +1,6 @@
+{
+  "name": "Б. Батхишиг — Портфолио",
+  "description": "13 настай вэб хөгжүүлэгч Б. Батхишигийн бүтээлч портфолио сайт.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
